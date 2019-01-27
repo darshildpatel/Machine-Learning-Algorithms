@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithms
-Contains the Algorithms developed for Machine Learning course at NYU
+Contains the Algorithms developed during Machine Learning course at NYU
